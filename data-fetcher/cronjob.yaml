@@ -1,0 +1,14 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: tft-data-fetcher
+spec:
+  schedule: "*/1 * * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+            - name: tft-data-fetcher
+              image: tzdanows/tft-data-fetcher
+          restartPolicy: OnFailure
