@@ -1,0 +1,1458 @@
+{
+  "metadata": {
+    "data_version": "5",
+    "match_id": "NA1_4913073543",
+    "participants": [
+      "FLjm-E_KQWILP8U-HuTDNKzDjvh1Iuecnbz_3vF_wuk07zXzPMWWkV1pHvhRH6h31DsxwxbWmjUVqA",
+      "KPnYakn6hCqZUnamLsUrNe8hMHxerPWRFZ3Et4gPTIkLK04pzsyPwah5_6LPH3jeFWSnGxJmgbALrw",
+      "B4vkIVCfWnjxYRoW_pRbcUgu8ugD4e_vWnhPayCm3K1idK3ulpPOXdlImxAAti-3Ar3Fo2rdKiAy7Q",
+      "T7AIrj3dBmHOSknMchwSNlq1vvVDcMAY4LdQIMjCR11cNci0H9IrAv8ODPdsRvAOdptbqoDaoUqT3w",
+      "Khh16XxTM5tS9q87EpoySKj6MCeKD1rWmcES_lDhN5or8sh_byKx7c0m-SIN3ZLlKjaFWVvI1HuCHA",
+      "9XqQ_Ob1P3EdqkZdkGmUeezdn1-li7Mqzl5nFu_l8oiCupkLAzj9clAFwRT_exfOLpyuhZU7iQs9cA",
+      "MWNDSRtypyJ3xwyQQ2CkQTaAM-TA2pofCLH25tTuDCfDdG6FlIsD3AVmVY6QaIEZNSTG9b5SLNF7aQ",
+      "655Ab61Xbd7WNHIM8uexisiHtGZfm-_5aqRyES5kVbgZxUUND6ychQ24eGYZjV520-3raT2-zhEtyw"
+    ]
+  },
+  "info": {
+    "game_datetime": 1707116644285,
+    "game_length": 2047.7037353515625,
+    "game_version": "Version 14.2.556.3141 (Jan 25 2024/12:04:09) [PUBLIC] <Releases/14.2>",
+    "participants": [
+      {
+        "augments": [
+          "TFT9_Augment_LearningFromExperience2",
+          "TFT9_Augment_YouHaveMyBow",
+          "TFT9_Augment_Commander_FinalAscension"
+        ],
+        "companion": {
+          "content_ID": "2f15445b-5df2-4996-a743-f43d4e95d336",
+          "item_ID": 76002,
+          "skin_ID": 2,
+          "species": "PetChibiSona"
+        },
+        "gold_left": 0,
+        "last_round": 34,
+        "level": 9,
+        "partner_group_id": 1,
+        "placement": 3,
+        "players_eliminated": 1,
+        "puuid": "FLjm-E_KQWILP8U-HuTDNKzDjvh1Iuecnbz_3vF_wuk07zXzPMWWkV1pHvhRH6h31DsxwxbWmjUVqA",
+        "time_eliminated": 2038.5389404296875,
+        "total_damage_to_players": 68,
+        "traits": [
+          {
+            "name": "Set10_Brawler",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_CrowdDive",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Deadeye",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Edgelord",
+            "num_units": 2,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Fighter",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_IllBeats",
+            "num_units": 1,
+            "style": 5,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "Set10_Jazz",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_PopBand",
+            "num_units": 6,
+            "style": 2,
+            "tier_current": 2,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Quickshot",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Sentinel",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_TrueDamage",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_TwoSides",
+            "num_units": 1,
+            "style": 5,
+            "tier_current": 1,
+            "tier_total": 1
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT10_KSante",
+            "itemNames": [
+              "TFT_Item_TearOfTheGoddess"
+            ],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Aphelios",
+            "itemNames": [
+              "TFT_Item_Morellonomicon",
+              "TFT_Item_RabadonsDeathcap"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Yone",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Sett",
+            "itemNames": [
+              "TFT10_Item_CrowdDiverEmblem",
+              "TFT_Item_Crownguard",
+              "TFT_Item_GargoyleStoneplate"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Ezreal",
+            "itemNames": [
+              "TFT_Item_LastWhisper"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Illaoi",
+            "itemNames": [
+              "TFT10_Item_WardenEmblem",
+              "TFT_Item_GargoyleStoneplate",
+              "TFT_Item_NightHarvester"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Qiyana",
+            "itemNames": [
+              "TFT_Item_Bloodthirster",
+              "TFT_Item_Bloodthirster"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Kayn",
+            "itemNames": [
+              "TFT_Item_Quicksilver",
+              "TFT10_Item_TrueDamageEmblem",
+              "TFT_Item_UnstableConcoction"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Lucian",
+            "itemNames": [
+              "TFT_Item_LastWhisper",
+              "TFT_Item_InfinityEdge",
+              "TFT_Item_SpearOfShojin"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 2
+          }
+        ]
+      },
+      {
+        "augments": [
+          "TFT9_Augment_TwoHealthy",
+          "TFT9_Augment_BigGrabBag",
+          "TFT6_Augment_GachaAddict"
+        ],
+        "companion": {
+          "content_ID": "50891d73-0465-4076-99c2-f5e372e4647c",
+          "item_ID": 24022,
+          "skin_ID": 22,
+          "species": "PetBellswayer"
+        },
+        "gold_left": 1,
+        "last_round": 34,
+        "level": 8,
+        "partner_group_id": 1,
+        "placement": 4,
+        "players_eliminated": 1,
+        "puuid": "KPnYakn6hCqZUnamLsUrNe8hMHxerPWRFZ3Et4gPTIkLK04pzsyPwah5_6LPH3jeFWSnGxJmgbALrw",
+        "time_eliminated": 2039.2886962890625,
+        "total_damage_to_players": 39,
+        "traits": [
+          {
+            "name": "Set10_Brawler",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Emo",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Funk",
+            "num_units": 2,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Hyperpop",
+            "num_units": 1,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_IllBeats",
+            "num_units": 1,
+            "style": 5,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "Set10_KDA",
+            "num_units": 2,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Sentinel",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Spellweaver",
+            "num_units": 7,
+            "style": 3,
+            "tier_current": 3,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_TrueDamage",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT10_Annie",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Seraphine",
+            "itemNames": [
+              "TFT_Item_HextechGunblade"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Gragas",
+            "itemNames": [
+              "TFT_Item_RedBuff",
+              "TFT_Item_BrambleVest",
+              "TFT_Item_GargoyleStoneplate"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Lulu",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Ekko",
+            "itemNames": [
+              "TFT_Item_RedBuff",
+              "TFT_Item_Crownguard",
+              "TFT_Item_Leviathan"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT10_Ahri",
+            "itemNames": [
+              "TFT_Item_GuinsoosRageblade",
+              "TFT_Item_RapidFireCannon",
+              "TFT_Item_UnstableConcoction"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Blitzcrank",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_Quicksilver",
+              "TFT_Item_NightHarvester"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Illaoi",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_GuardianAngel",
+              "TFT_Item_TitansResolve"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          }
+        ]
+      },
+      {
+        "augments": [
+          "TFT6_Augment_CyberneticUplink2",
+          "TFT9_Augment_JeweledLotus",
+          "TFT10_Augment_TalentSearch"
+        ],
+        "companion": {
+          "content_ID": "3496e511-29bb-4c43-8fdb-2bafa5626e57",
+          "item_ID": 35002,
+          "skin_ID": 2,
+          "species": "PetChibiJinx"
+        },
+        "gold_left": 40,
+        "last_round": 32,
+        "level": 7,
+        "partner_group_id": 2,
+        "placement": 6,
+        "players_eliminated": 0,
+        "puuid": "B4vkIVCfWnjxYRoW_pRbcUgu8ugD4e_vWnhPayCm3K1idK3ulpPOXdlImxAAti-3Ar3Fo2rdKiAy7Q",
+        "time_eliminated": 1901.9842529296875,
+        "total_damage_to_players": 46,
+        "traits": [
+          {
+            "name": "Set10_Emo",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Executioner",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Fighter",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Guardian",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_KDA",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_PunkRock",
+            "num_units": 5,
+            "style": 3,
+            "tier_current": 2,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Quickshot",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Superfan",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT10_Vi",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Jinx",
+            "itemNames": [
+              "TFT_Item_LastWhisper",
+              "TFT_Item_Deathblade",
+              "TFT_Item_GuinsoosRageblade"
+            ],
+            "name": "",
+            "rarity": 0,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT10_Twitch",
+            "itemNames": [
+              "TFT_Item_InfinityEdge",
+              "TFT_Item_MadredsBloodrazor"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT10_Pantheon",
+            "itemNames": [
+              "TFT_Item_RedBuff"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Amumu",
+            "itemNames": [
+              "TFT_Item_NightHarvester",
+              "TFT_Item_WarmogsArmor",
+              "TFT10_Item_PunkEmblem"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Vex",
+            "itemNames": [
+              "TFT_Item_ArchangelsStaff",
+              "TFT_Item_NeedlesslyLargeRod"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Neeko",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          }
+        ]
+      },
+      {
+        "augments": [
+          "TFT10_Augment_BigGains",
+          "TFT9_Augment_Sleightofhand",
+          "TFT9_Augment_Commander_FinalAscension"
+        ],
+        "companion": {
+          "content_ID": "4c0a3c47-2ad5-41fd-9a15-801c4923620e",
+          "item_ID": 60001,
+          "skin_ID": 1,
+          "species": "PetChibiMalphite"
+        },
+        "gold_left": 8,
+        "last_round": 32,
+        "level": 9,
+        "partner_group_id": 2,
+        "placement": 5,
+        "players_eliminated": 1,
+        "puuid": "T7AIrj3dBmHOSknMchwSNlq1vvVDcMAY4LdQIMjCR11cNci0H9IrAv8ODPdsRvAOdptbqoDaoUqT3w",
+        "time_eliminated": 1909.706298828125,
+        "total_damage_to_players": 27,
+        "traits": [
+          {
+            "name": "Set10_Brawler",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Country",
+            "num_units": 2,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_CrowdDive",
+            "num_units": 5,
+            "style": 3,
+            "tier_current": 2,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_EDM",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Edgelord",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Emo",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Executioner",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_IllBeats",
+            "num_units": 1,
+            "style": 5,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "Set10_KDA",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_PopBand",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT10_Evelynn",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_TahmKench",
+            "itemNames": [],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Katarina",
+            "itemNames": [
+              "TFT_Item_UnstableConcoction",
+              "TFT_Item_UnstableConcoction",
+              "TFT_Item_JeweledGauntlet"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT10_Vex",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_NightHarvester",
+              "TFT_Item_RabadonsDeathcap"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Yone",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_NightHarvester",
+              "TFT_Item_JeweledGauntlet"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Zac",
+            "itemNames": [
+              "TFT_Item_WarmogsArmor"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Zac",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_EmptyBag",
+              "TFT_Item_EmptyBag"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Zed",
+            "itemNames": [
+              "TFT_Item_TitansResolve",
+              "TFT_Item_Bloodthirster",
+              "TFT_Item_GuardianAngel"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Illaoi",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_ArchangelsStaff",
+              "TFT_Item_Morellonomicon"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          }
+        ]
+      },
+      {
+        "augments": [
+          "TFT6_Augment_TradeSector",
+          "TFT9_Augment_Harmacist2",
+          "TFT6_Augment_ForceOfNature"
+        ],
+        "companion": {
+          "content_ID": "bf8410f8-a041-4182-a14c-69bf16ac2557",
+          "item_ID": 21018,
+          "skin_ID": 18,
+          "species": "PetDSWhale"
+        },
+        "gold_left": 35,
+        "last_round": 34,
+        "level": 8,
+        "partner_group_id": 3,
+        "placement": 2,
+        "players_eliminated": 2,
+        "puuid": "Khh16XxTM5tS9q87EpoySKj6MCeKD1rWmcES_lDhN5or8sh_byKx7c0m-SIN3ZLlKjaFWVvI1HuCHA",
+        "time_eliminated": 2039.5885009765625,
+        "total_damage_to_players": 64,
+        "traits": [
+          {
+            "name": "Set10_Country",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_DJ",
+            "num_units": 1,
+            "style": 5,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "Set10_EDM",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Edgelord",
+            "num_units": 2,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Emo",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Fighter",
+            "num_units": 6,
+            "style": 3,
+            "tier_current": 3,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Guardian",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Pentakill",
+            "num_units": 5,
+            "style": 2,
+            "tier_current": 2,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Sentinel",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Spellweaver",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Superfan",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT10_Gnar",
+            "itemNames": [
+              "TFT_Item_PowerGauntlet",
+              "TFT_Item_NightHarvester"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT10_Kayle",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Jax",
+            "itemNames": [
+              "TFT_Item_RabadonsDeathcap",
+              "TFT_Item_BlueBuff"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT10_Mordekaiser",
+            "itemNames": [
+              "TFT_Item_NegatronCloak"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Urgot",
+            "itemNames": [
+              "TFT_Item_Bloodthirster",
+              "TFT_Item_TitansResolve",
+              "TFT_Item_UnstableConcoction"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT10_Viego",
+            "itemNames": [
+              "TFT_Item_NeedlesslyLargeRod"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Poppy",
+            "itemNames": [
+              "TFT_Item_GargoyleStoneplate",
+              "TFT7_Item_ShimmerscaleGoldmancersStaff",
+              "TFT_Item_Leviathan"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Sona",
+            "itemNames": [],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Yorick",
+            "itemNames": [
+              "TFT_Item_PowerGauntlet",
+              "TFT_Item_Bloodthirster",
+              "TFT_Item_SteraksGage"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          }
+        ]
+      },
+      {
+        "augments": [
+          "TFT9_Augment_LearningFromExperience2",
+          "TFT8_Augment_SalvageBinPlus",
+          "TFT6_Augment_CyberneticUplink3"
+        ],
+        "companion": {
+          "content_ID": "371069f3-259c-49e7-93fa-6489156953f8",
+          "item_ID": 67001,
+          "skin_ID": 1,
+          "species": "PetPoroFluft"
+        },
+        "gold_left": 2,
+        "last_round": 34,
+        "level": 10,
+        "partner_group_id": 3,
+        "placement": 1,
+        "players_eliminated": 2,
+        "puuid": "9XqQ_Ob1P3EdqkZdkGmUeezdn1-li7Mqzl5nFu_l8oiCupkLAzj9clAFwRT_exfOLpyuhZU7iQs9cA",
+        "time_eliminated": 2039.5885009765625,
+        "total_damage_to_players": 94,
+        "traits": [
+          {
+            "name": "Set10_Brawler",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Classical",
+            "num_units": 1,
+            "style": 5,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "Set10_CrowdDive",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_DJ",
+            "num_units": 1,
+            "style": 5,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "Set10_Deadeye",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Edgelord",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Fighter",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_IllBeats",
+            "num_units": 1,
+            "style": 5,
+            "tier_current": 1,
+            "tier_total": 1
+          },
+          {
+            "name": "Set10_Jazz",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Pentakill",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_PopBand",
+            "num_units": 7,
+            "style": 3,
+            "tier_current": 3,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Quickshot",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Sentinel",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Spellweaver",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_TwoSides",
+            "num_units": 1,
+            "style": 5,
+            "tier_current": 1,
+            "tier_total": 1
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT10_KSante",
+            "itemNames": [
+              "TFT_Item_GargoyleStoneplate"
+            ],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Aphelios",
+            "itemNames": [
+              "TFT_Item_Zephyr"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Yone",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_EmptyBag",
+              "TFT_Item_EmptyBag"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Sett",
+            "itemNames": [
+              "TFT_Item_SpectralGauntlet",
+              "TFT_Item_Crownguard"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Viego",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_SteraksGage",
+              "TFT_Item_DragonsClaw"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Ezreal",
+            "itemNames": [
+              "TFT_Item_BlueBuff",
+              "TFT_Item_RapidFireCannon",
+              "TFT_Item_InfinityEdge"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Illaoi",
+            "itemNames": [
+              "TFT_Item_NightHarvester"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Jhin",
+            "itemNames": [
+              "TFT_Item_BlueBuff",
+              "TFT_Item_InfinityEdge",
+              "TFT9_Item_OrnnHorizonFocus"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Kayn",
+            "itemNames": [
+              "TFT_Item_RecurveBow",
+              "TFT_Item_ForceOfNature"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Lucian",
+            "itemNames": [
+              "TFT_Item_GiantsBelt"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          },
+          {
+            "character_id": "TFT10_Sona",
+            "itemNames": [
+              "TFT5_Item_ThiefsGlovesRadiant",
+              "TFT_Item_EmptyBag",
+              "TFT_Item_EmptyBag"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          }
+        ]
+      },
+      {
+        "augments": [
+          "TFT9_Augment_PumpingUp2",
+          "TFT9_Augment_Harmacist2",
+          "TFT9_Augment_BlindingSpeed"
+        ],
+        "companion": {
+          "content_ID": "a6f8fb43-3803-4293-8697-c0e8963b4001",
+          "item_ID": 7007,
+          "skin_ID": 7,
+          "species": "PetGemTiger"
+        },
+        "gold_left": 0,
+        "last_round": 31,
+        "level": 7,
+        "partner_group_id": 4,
+        "placement": 8,
+        "players_eliminated": 0,
+        "puuid": "MWNDSRtypyJ3xwyQQ2CkQTaAM-TA2pofCLH25tTuDCfDdG6FlIsD3AVmVY6QaIEZNSTG9b5SLNF7aQ",
+        "time_eliminated": 1849.2518310546875,
+        "total_damage_to_players": 9,
+        "traits": [
+          {
+            "name": "Set10_Country",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Emo",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Executioner",
+            "num_units": 2,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Fighter",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Guardian",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_PunkRock",
+            "num_units": 4,
+            "style": 3,
+            "tier_current": 2,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Quickshot",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT10_Vi",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_RecurveBow",
+              "TFT_Item_Deathblade"
+            ],
+            "name": "",
+            "rarity": 0,
+            "tier": 3
+          },
+          {
+            "character_id": "TFT10_Jinx",
+            "itemNames": [
+              "TFT_Item_GuinsoosRageblade",
+              "TFT_Item_Deathblade",
+              "TFT_Item_LastWhisper"
+            ],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Twitch",
+            "itemNames": [
+              "TFT_Item_MadredsBloodrazor",
+              "TFT_Item_GuinsoosRageblade",
+              "TFT_Item_RapidFireCannon"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Pantheon",
+            "itemNames": [
+              "TFT_Item_DragonsClaw",
+              "TFT_Item_WarmogsArmor",
+              "TFT_Item_ChainVest"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Amumu",
+            "itemNames": [],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Vex",
+            "itemNames": [
+              "TFT_Item_BlueBuff",
+              "TFT_Item_JeweledGauntlet"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Thresh",
+            "itemNames": [],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          }
+        ]
+      },
+      {
+        "augments": [
+          "TFT9_Augment_JeweledLotus",
+          "TFT9_Augment_YouHaveMyBow",
+          "TFT6_Augment_RadiantRelics"
+        ],
+        "companion": {
+          "content_ID": "6d4f587d-ff82-4f7e-8d99-177dfdd8fc80",
+          "item_ID": 55012,
+          "skin_ID": 12,
+          "species": "PetKoala"
+        },
+        "gold_left": 0,
+        "last_round": 31,
+        "level": 7,
+        "partner_group_id": 4,
+        "placement": 7,
+        "players_eliminated": 0,
+        "puuid": "655Ab61Xbd7WNHIM8uexisiHtGZfm-_5aqRyES5kVbgZxUUND6ychQ24eGYZjV520-3raT2-zhEtyw",
+        "time_eliminated": 1848.5028076171875,
+        "total_damage_to_players": 53,
+        "traits": [
+          {
+            "name": "Set10_Country",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_CrowdDive",
+            "num_units": 4,
+            "style": 3,
+            "tier_current": 2,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Edgelord",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 3
+          },
+          {
+            "name": "Set10_Funk",
+            "num_units": 0,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_KDA",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Pentakill",
+            "num_units": 3,
+            "style": 1,
+            "tier_current": 1,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_PopBand",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_Sentinel",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          },
+          {
+            "name": "Set10_TrueDamage",
+            "num_units": 1,
+            "style": 0,
+            "tier_current": 0,
+            "tier_total": 4
+          }
+        ],
+        "units": [
+          {
+            "character_id": "TFT10_Evelynn",
+            "itemNames": [
+              "TFT_Item_StatikkShiv"
+            ],
+            "name": "",
+            "rarity": 0,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Kayle",
+            "itemNames": [
+              "TFT_Item_RabadonsDeathcap",
+              "TFT_Item_GuinsoosRageblade",
+              "TFT_Item_TearOfTheGoddess"
+            ],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Katarina",
+            "itemNames": [],
+            "name": "",
+            "rarity": 1,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Mordekaiser",
+            "itemNames": [
+              "TFT_Item_SpectralGauntlet",
+              "TFT_Item_SteraksGage",
+              "TFT_Item_Morellonomicon"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Yone",
+            "itemNames": [
+              "TFT_Item_Bloodthirster",
+              "TFT_Item_TitansResolve",
+              "TFT_Item_InfinityEdge"
+            ],
+            "name": "",
+            "rarity": 2,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Viego",
+            "itemNames": [
+              "TFT_Item_TitansResolve",
+              "TFT5_Item_BloodthirsterRadiant",
+              "TFT_Item_UnstableConcoction"
+            ],
+            "name": "",
+            "rarity": 4,
+            "tier": 2
+          },
+          {
+            "character_id": "TFT10_Qiyana",
+            "itemNames": [
+              "TFT_Item_ThiefsGloves",
+              "TFT_Item_Leviathan",
+              "TFT_Item_Morellonomicon"
+            ],
+            "name": "",
+            "rarity": 6,
+            "tier": 1
+          }
+        ]
+      }
+    ],
+    "queue_id": 1160,
+    "tft_game_type": "pairs",
+    "tft_set_core_name": "TFTSet10",
+    "tft_set_number": 10
+  }
+}
