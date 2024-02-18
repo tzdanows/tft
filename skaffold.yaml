@@ -1,0 +1,16 @@
+# If you have a CI/CD pipeline (like GitHub Actions), 
+# you can integrate Skaffold into this pipeline for 
+# continuous integration and delivery to your Kubernetes clusters
+
+apiVersion: skaffold/v2beta21
+kind: Config
+build:
+  artifacts:
+  - image: data-fetcher1
+    context: data-fetcher
+    docker:
+      dockerfile: Dockerfile
+deploy:
+  kubectl:
+    manifests:
+    - k8s/*.yaml
