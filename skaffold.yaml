@@ -2,15 +2,20 @@
 # you can integrate Skaffold into this pipeline for 
 # continuous integration and delivery to your Kubernetes clusters
 
+# currently this skaffold.yaml configuration doesn't work as intended..
+
+
 apiVersion: skaffold/v2beta21
 kind: Config
+metadata:
+  name: tft-analytics-app
 build:
   artifacts:
-  - image: data-fetcher1
-    context: data-fetcher
+  - image: tzdanows/df
+    context: ./data-fetcher
     docker:
       dockerfile: Dockerfile
 deploy:
   kubectl:
     manifests:
-    - k8s/*.yaml
+    - ./data-fetcher/deployment.yaml

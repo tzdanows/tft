@@ -1,19 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: df-test
+  name: df
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: df-test
+      app: df
   template:
     metadata:
       labels:
-        app: df-test
+        app: df
     spec:
       containers:
-      - name: df-test
-        image: tzdanows/df-test:latest
+      - name: df
+        image: tzdanows/df:latest
+        imagePullPolicy: Always
         ports:
-        - containerPort: 8080
+        - containerPort: 8120
