@@ -1,1 +1,0 @@
-kubectl delete -f data-fetcher/cronjob.yaml

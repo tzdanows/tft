@@ -2,7 +2,7 @@
 # you can integrate Skaffold into this pipeline for 
 # continuous integration and delivery to your Kubernetes clusters
 
-# currently this skaffold.yaml configuration doesn't work as intended..
+# currently this skaffold.yaml configuration doesn't work as intended, TODO
 
 
 apiVersion: skaffold/v2beta21

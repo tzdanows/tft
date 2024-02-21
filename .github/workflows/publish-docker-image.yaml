@@ -28,4 +28,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           file: ./data-fetcher/Dockerfile
-          tags: tzdanows/tft-data-fetcher:latest
+          tags: tzdanows/df:latest

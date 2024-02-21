@@ -1,5 +1,5 @@
 
-Build the docker image (in the data-fetcher directory) with the following command:
+Build the docker image in the root directory with the following command:
 
 ```bash
 docker build -t <dockerhub-username>/df:latest -f ./data-fetcher/Dockerfile .
@@ -36,3 +36,5 @@ kubectl get pods
 # run the code
 kubectl exec [POD_NAME] -- ./df
 ```
+
+Note: You need to refresh the riot API key once every 24h unless you apply to be an official application endorsed by riot

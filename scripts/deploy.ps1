@@ -1,1 +1,0 @@
-kubectl apply -f data-fetcher/cronjob.yaml
