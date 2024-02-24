@@ -1,6 +1,3 @@
-
-
-
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -17,7 +14,9 @@ spec:
     spec:
       containers:
       - name: df
-        image: tzdanows/df:latest
+        image: tzdanows/df
         imagePullPolicy: Always
         ports:
         - containerPort: 8120
+      imagePullSecrets: # not essential - kubernetes secret for dockerhub login
+      - name: regcreds

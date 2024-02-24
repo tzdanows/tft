@@ -33,7 +33,7 @@ func datafetcher() {
 
 	// Fetched response body
 	body, err := io.ReadAll(response.Body)
-	dataDir := "../data"
+	dataDir := "../sample-tft-data"
 
 	// Reponse saves to json file
 	filePath := filepath.Join(dataDir, fmt.Sprintf("%s.json", matchID))
